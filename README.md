@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tami 
+- 👋 Hi, I’m Tamires Galvão  
 - 👀 I’m interested in Data Science and AI  
 - 🌱 I’m currently learning Python and C. 
      
